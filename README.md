@@ -15,7 +15,7 @@
 <ul>
   <li>投稿完了メッセージの表示</li>
   <li>投稿機能</li>
-  
+  <img src="https://user-images.githubusercontent.com/87677449/137825072-d965a0aa-4ea6-4e7a-bdf4-f1eff66a9228.png" alt="完了">
   <li></li>
   <li>HTML</li>
   <li>css</li>
