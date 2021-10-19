@@ -24,5 +24,5 @@
   <p>（ダウンロードしたメッセージデータ）</p>
   <li>メッセージの編集/削除機能（管理画面）</li>
   <img src="https://user-images.githubusercontent.com/87677449/137843507-9fc9cd96-7a83-48c1-a08b-e9265bbf1fcc.png" alt="エラ">
-  <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ"
+  <img src="https://user-images.githubusercontent.com/87677449/137843905-6bf6e942-0025-4bdb-a24b-62eafc5aacaa.png" alt="エラ"
 </ul>
