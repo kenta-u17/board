@@ -23,6 +23,6 @@
   <img src="https://user-images.githubusercontent.com/87677449/137840945-f81f0341-7147-4c6f-bdd2-206a9010d892.png" alt="エラ">
   <p>（ダウンロードしたメッセージデータ）</p>
   <li>メッセージの編集/削除機能（管理画面）</li>
-  <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ">
+  <img src="https://user-images.githubusercontent.com/87677449/137843507-9fc9cd96-7a83-48c1-a08b-e9265bbf1fcc.png" alt="エラ">
   <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ"
 </ul>
