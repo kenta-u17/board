@@ -21,7 +21,7 @@
   <li>投稿データをCSV形式でダウンロードする機能（管理画面）</li>
   <img src="https://user-images.githubusercontent.com/87677449/137839829-54a47d71-9177-4ffe-9d9d-c26d1923e5a2.png" alt="エラ">
   <img src="https://user-images.githubusercontent.com/87677449/137840945-f81f0341-7147-4c6f-bdd2-206a9010d892.png" alt="エラ">
-  <p style="text-align:center">アンパンマングミ</p>
+  <p>（ダウンロードしたメッセージデータ）</p>
   <li>メッセージの編集/削除機能（管理画面）</li>
   <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ">
   <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ"
