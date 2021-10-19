@@ -19,8 +19,8 @@
   <li>ログイン機能（管理画面）</li>
   <img src="https://user-images.githubusercontent.com/87677449/137828343-c876381a-a7ec-470a-83aa-72c719bd9eec.png" alt="エラ">
   <li>投稿データをCSV形式でダウンロードする機能（管理画面）</li>
-  <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ">
-  <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ">
+  <img src="https://user-images.githubusercontent.com/87677449/137839829-54a47d71-9177-4ffe-9d9d-c26d1923e5a2.png" alt="エラ">
+  <img src="" alt="エラ">
   <li>（管理画面）</li>
   <li>メッセージの編集/削除機能（管理画面）</li>
   <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ">
