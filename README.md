@@ -5,7 +5,19 @@
 # 使用技術
 <ul>
   <li>PHP 7.3.29</li>
-  <li>MariaDB</li>
+  <li>MariaDB(MySQL) v14.14</li>
+  <li>Apache v2.4.48  </li>
   <li>HTML</li>
   <li>css</li>
 </ul>
+
+# 機能一覧
+<ul>
+  <li>投稿完了メッセージの表示</li>
+  <li>投稿機能</li>
+  
+  <li></li>
+  <li>HTML</li>
+  <li>css</li>
+</ul>
+
