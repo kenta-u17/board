@@ -26,3 +26,10 @@
   <img src="https://user-images.githubusercontent.com/87677449/137843507-9fc9cd96-7a83-48c1-a08b-e9265bbf1fcc.png" alt="エラ">
   <img src="https://user-images.githubusercontent.com/87677449/137843905-6bf6e942-0025-4bdb-a24b-62eafc5aacaa.png" alt="エラ"
 </ul>
+  
+# 今後追加していく機能
+  <ul>
+    <li>画像ファイルアップロード機能</li>
+    <li>マルチスレッド機能</li>
+    <li>検索機能</li>
+  </ul>
