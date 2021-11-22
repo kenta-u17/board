@@ -2,7 +2,6 @@
 <p>
   メッセージの投稿が出来る掲示板です。
   <br>誰でも匿名で自由に書き込むことができます。
-  <br>将来的にスレッドフロート型にし、大学内の課題やレポート解決ためのQA掲示板を作ります！
 <img src="https://user-images.githubusercontent.com/87677449/137827385-6b0aa575-e682-4a56-83dc-80a27284cc55.png" alt="エラ">
 
 # 使用技術
@@ -30,9 +29,4 @@
   <img src="https://user-images.githubusercontent.com/87677449/137843905-6bf6e942-0025-4bdb-a24b-62eafc5aacaa.png" alt="エラ"
 </ul>
   
-# 今後追加していく機能
-  <ul>
-    <li>画像ファイルアップロード機能</li>
-    <li>マルチスレッド機能</li>
-    <li>検索機能</li>
-  </ul>
+
